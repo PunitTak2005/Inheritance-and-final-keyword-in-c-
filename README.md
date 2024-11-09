@@ -30,3 +30,7 @@ git clone https://github.com/PunitTak2005/Inheritance-and-final-keyword-in-c-.gi
 cd Inheritance-and-final-keyword-in-c-
 g++ main.cpp -o inheritance_example
 ./inheritance_example
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
